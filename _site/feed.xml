@@ -1,0 +1,89 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>Qba01</title>
+  <subtitle>Let me show why RE is basically other type of puzzels</subtitle>
+  <updated>2025-09-07T21:22:31+02:00</updated>
+  <author>
+    <name>Qba01</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2025 Qba01 </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>KoiLoader - Malware Analysis Walkthrough</title>
+    <link href="http://localhost:4000/posts/KoiLoader/" rel="alternate" type="text/html" title="KoiLoader - Malware Analysis Walkthrough" />
+    <published>2025-08-01T00:00:00+02:00</published>
+  
+    <updated>2025-08-01T00:00:00+02:00</updated>
+  
+    <id>http://localhost:4000/posts/KoiLoader/</id>
+    <content type="text/html" src="http://localhost:4000/posts/KoiLoader/" />
+    <author>
+      <name>Qba01</name>
+    </author>
+
+  
+    
+  
+
+  <summary>This is still kind of a draft version of the post. However I wanted to post it so I can show snippet of what I’m doing. The markdown composition as well as the finall template of the report is also a work in progress ;D   Threat Overview    Threat Name: KoiLoader   File Format: #JS, #Powershell, #EXE   First Stage:            sourceFile: 21bc8b52d903de7f90c11d46e08a215fa88afab2f1f932ff6b56307a1...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>DBatLoader - Malware Analysis Walkthrough</title>
+    <link href="http://localhost:4000/posts/DBatLoader/" rel="alternate" type="text/html" title="DBatLoader - Malware Analysis Walkthrough" />
+    <published>2025-07-17T00:00:00+02:00</published>
+  
+    <updated>2025-07-17T00:00:00+02:00</updated>
+  
+    <id>http://localhost:4000/posts/DBatLoader/</id>
+    <content type="text/html" src="http://localhost:4000/posts/DBatLoader/" />
+    <author>
+      <name>Qba01</name>
+    </author>
+
+  
+    
+  
+
+  <summary>This is my “first” report/summary/walkthrough post, it’s very rough unpolished and with comments/notes of what I noted while I was working on the file. Still I wanted to post it so I can show snippet of what I’m doing aaand hopefully soon enough I will finish this analysis and report.   Threat Overview    Threat Name: DBatLoader   Type Format: #JS   Hash Values:            SHA256: e418cbad60066...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>First post</title>
+    <link href="http://localhost:4000/posts/First-post/" rel="alternate" type="text/html" title="First post" />
+    <published>2025-06-16T00:00:00+02:00</published>
+  
+    <updated>2025-06-16T00:00:00+02:00</updated>
+  
+    <id>http://localhost:4000/posts/First-post/</id>
+    <content type="text/html" src="http://localhost:4000/posts/First-post/" />
+    <author>
+      <name>Qba01</name>
+    </author>
+
+  
+    
+  
+
+  <summary>Welcome to my blog thingy Hi, I’m Qba01. As the text above says welcome. As some may tell I’m not used to posting, I prefer lurking but I decided that it might be a good opportunity to share what I do when I can actually share it. Also I think it might become a good habbit which pushes me to focus more on cyber stuff and allow me to grow my knowledge further.  So what I intend to do with this. ...</summary>
+
+  </entry>
+
+</feed>
+
+
