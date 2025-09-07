@@ -19,14 +19,14 @@ link:
 - Type Format: #JS
 - Hash Values: 
 	- SHA256: e418cbad6006696595a396905ac73ca85eb369ca4ea3afe04619ee88468aeb50
-- **Observations**
-  - Behavior: [Actions performed by the malware]
-  - C2 Communication: [Details about command and control servers]
-  - Persistence Mechanisms: [How the threat maintains its presence]
+- **Observations**	  
+  - Behavior: #todo
+  - C2 Communication: #todo
+  - Persistence Mechanisms: #todo
 - **Attack Vector**:
-  - Entry Point: [How the threat gains access, e.g., email, compromised website]
-  - Exploited Vulnerabilities: [Specific vulnerabilities exploited]
-- **Indicators of Compromise (IoCs)**: [List of IoCs, e.g., file hashes, malicious IPs]
+  - Entry Point: #todo
+  - Exploited Vulnerabilities: #todo
+- **Indicators of Compromise (IoCs)**: #todo
 
 ### Walkthrough
 First of the bat, there is this annoying obfuscation. I saw similar example earlier in different malicious file I was dissecting but I wanted to use it to make an this report/walkthrough thingy, I got stuck and didn't have much time for the whole thing so I skipped it. And well here we are, now I'm not leaving it like this.
@@ -166,5 +166,3 @@ E? `E[_0x138f04(0x21b)]=huyttara;`
 ## Revision History
 - **2025-07-17**: Initial threat acquisition and research.
 - **2025-09-05**: Posting draft version of post.
-<!-- - **2025-07-17**: Updated with detailed technical analysis and impact assessment.
-- **2025-07-17**: Final review and development of response strategies. -->
